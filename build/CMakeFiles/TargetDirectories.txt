@@ -1,0 +1,3 @@
+/home/michael/Documents/Tutoring/FranciscoA/minesweeper/build/CMakeFiles/rebuild_cache.dir
+/home/michael/Documents/Tutoring/FranciscoA/minesweeper/build/CMakeFiles/edit_cache.dir
+/home/michael/Documents/Tutoring/FranciscoA/minesweeper/build/CMakeFiles/minesweeper.dir
