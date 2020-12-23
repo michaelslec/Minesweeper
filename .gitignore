@@ -1,2 +1,6 @@
 build/
+.idea/
+.vscode/
 tags
+.floo
+.flooignore
